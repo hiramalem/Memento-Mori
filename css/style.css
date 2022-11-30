@@ -1,0 +1,39 @@
+:root{
+    --cinza: #cccccc
+}
+
+.cinza{
+    background-color: var(--cinza);
+}
+
+.sombra{
+    box-shadow: 0px 5px 15px 1px #000000;
+}
+
+.bg-img{
+    background-image: url(img/background.png);
+    position: absolute;
+}
+
+.btn{
+    background-color: #0d0d0d;
+    color: #CCCCCC;
+    font-family: Arial;
+    font-size: 21px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.video-box{
+    border: 5px solid #000000;    
+}
+
+.margem-btn-1{
+    margin-right: 20px;
+}
+
+.margem-btn-2{
+    margin-left: 20px;
+}
+
+
